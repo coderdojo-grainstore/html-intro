@@ -19,7 +19,7 @@ HTML is Hyper Text Markup Language: it is not a programming language, it is a â€
     <title>This is a title</title>
   </head>
   <body>
-    <p>Hello world!</p>
+    <h1>Hello world!</h1>
   </body>
 </html>
 ```
@@ -33,3 +33,8 @@ Tags are the instructions that tell the web browser where to put things and how 
 The <html> tag is called a starting tag, and usually each starting tag has a closing tag like </html>
 
 Notice that all you had to do to make the ending tag is add a backslash ( / ) to the starting tag.
+
+HTML tags
+**<**hx**>** tags, where x is 1, 2, 3 .. 1 = Big, 6 = Small
+
+Try changing the h1 to a different numberâ€¦
