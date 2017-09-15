@@ -1,3 +1,6 @@
-# My Awesome Book
+# HTML Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. 
+
+HTML was created by Berners-Lee in late 1991 but "HTML 2.0" was the first standard HTML specification which was published in 1995.
+
